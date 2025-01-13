@@ -1,1 +1,8 @@
+The two datasets contain the results of every official men's and women's international football match since the 19th century, which were provided by Datacamp. This data is stored in two CSV files: women_results.csv and men_results.csv.
 
+Both data sets contain the below columns:
+home_team - the name of the hosting team
+away_team - the name of the visiting team
+home_score - the hosting team's score
+away_score - the visitng team[s score
+tournament - the name of the tournament
